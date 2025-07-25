@@ -1,3 +1,5 @@
+package Warmup1;
+
 public class NearHundred {
     public boolean nearHundred(int n) {
         if(Math.abs(100-n) <=10) return true;
